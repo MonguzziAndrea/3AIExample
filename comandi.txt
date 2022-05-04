@@ -1,0 +1,5 @@
+git add
+git pull 
+git push
+git clone + url
+git stage
